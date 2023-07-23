@@ -10,3 +10,9 @@ def greeting():
 
 def square(a):
     print(a**2)
+
+def devision(a,b):
+    print(a//b)
+
+def subtraction(a,b):
+    return abs(a-b)
