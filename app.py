@@ -6,3 +6,6 @@ def multiplication(a,b):
 
 def greeting():
     print("hello")
+
+def devision(a,b):
+    print(a//b)
