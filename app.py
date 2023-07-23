@@ -16,3 +16,6 @@ def devision(a,b):
 
 def subtraction(a,b):
     return abs(a-b)
+
+def greetig_evening(name):
+    print("Good evening {}".format(name))
