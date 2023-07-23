@@ -7,3 +7,6 @@ def multiplication(a,b):
 
 def greeting():
     print("hello")
+
+def square(a):
+    print(a**2)
